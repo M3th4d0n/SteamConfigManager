@@ -1,4 +1,6 @@
 ﻿using System.IO;
+using System;
+using System.Linq;
 
 namespace SteamConfigManager.utils
 {
