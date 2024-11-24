@@ -19,4 +19,3 @@ A simple utility for transferring Steam configurations between accounts.
 
 - Requires a valid installation of Steam.
 - Does not use an API key; relies on local files.
-- Ignored files will be listed during the process.
