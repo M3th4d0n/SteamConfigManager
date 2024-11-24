@@ -91,18 +91,19 @@ namespace SteamConfigManager
                     SteamConfigTransfer.TransferGame(steamPath, sourceAccount.SteamID, targetAccount.SteamID, appID);
                     AnsiConsole.MarkupLine($"[green]Game data [yellow]AppID: {appID}[/] successfully transferred.[/]");
                 }
-
-                // Спрашиваем пользователя, хочет ли он перезапустить
+                
                 var restartOption = AnsiConsole.Prompt(
                     new SelectionPrompt<string>()
                         .Title("[yellow]Do you want to restart the program or exit?[/]")
                         .AddChoices("Restart", "Exit"));
+                Console.Clear();
 
                 if (restartOption == "Exit")
                 {
                     AnsiConsole.MarkupLine("[green]Exiting the program. Goodbye![/]");
                     break;
                 }
+                
             }
         }
 

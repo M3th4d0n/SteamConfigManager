@@ -15,3 +15,4 @@ C:\Users\nulll\RiderProjects\SteamConfigManager\SteamConfigManager\obj\Release\n
 C:\Users\nulll\RiderProjects\SteamConfigManager\SteamConfigManager\obj\Release\net8.0\SteamConfigManager.pdb
 C:\Users\nulll\RiderProjects\SteamConfigManager\SteamConfigManager\obj\Release\net8.0\SteamConfigManager.genruntimeconfig.cache
 C:\Users\nulll\RiderProjects\SteamConfigManager\SteamConfigManager\obj\Release\net8.0\ref\SteamConfigManager.dll
+C:\Users\nulll\RiderProjects\SteamConfigManager\SteamConfigManager\obj\Release\net8.0\SteamConfigManager.sourcelink.json
