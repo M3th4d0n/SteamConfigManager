@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "KEZzSFjm2JE=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\nulll\\RiderProjects\\SteamConfigManager\\SteamConfigManager\\SteamConfigManager.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nulll\\.nuget\\packages\\spectre.console\\0.49.2-preview.0.67\\spectre.console.0.49.2-preview.0.67.nupkg.sha512"
+  ],
+  "logs": []
+}
